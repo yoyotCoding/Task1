@@ -62,7 +62,6 @@ int main()
 {
 	initBoard();
 	playGame();
-	//printCurrentBoard(1, 1, 1, 'X', 1, false);
 }
 
 
